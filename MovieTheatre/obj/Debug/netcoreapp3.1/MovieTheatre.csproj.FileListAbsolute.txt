@@ -1,0 +1,78 @@
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.exe
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.deps.json
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.runtimeconfig.json
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.runtimeconfig.dev.json
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.dll
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.pdb
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.csprojAssemblyReference.cache
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.AssemblyInfoInputs.cache
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.AssemblyInfo.cs
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.csproj.CoreCompileInputs.cache
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.dll
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.pdb
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.genruntimeconfig.cache
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.exe
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.deps.json
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.runtimeconfig.json
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.runtimeconfig.dev.json
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.dll
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.pdb
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.csprojAssemblyReference.cache
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.AssemblyInfoInputs.cache
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.AssemblyInfo.cs
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.csproj.CoreCompileInputs.cache
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.dll
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.pdb
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.genruntimeconfig.cache
+D:\admin\Downloads\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.exe
+D:\admin\Downloads\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.deps.json
+D:\admin\Downloads\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.runtimeconfig.json
+D:\admin\Downloads\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.runtimeconfig.dev.json
+D:\admin\Downloads\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.dll
+D:\admin\Downloads\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.pdb
+D:\admin\Downloads\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.csprojAssemblyReference.cache
+D:\admin\Downloads\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.AssemblyInfoInputs.cache
+D:\admin\Downloads\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.AssemblyInfo.cs
+D:\admin\Downloads\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.csproj.CoreCompileInputs.cache
+D:\admin\Downloads\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.dll
+D:\admin\Downloads\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.pdb
+D:\admin\Downloads\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.genruntimeconfig.cache
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.exe
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.deps.json
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.runtimeconfig.json
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.runtimeconfig.dev.json
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.dll
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.pdb
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.csprojAssemblyReference.cache
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.AssemblyInfoInputs.cache
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.AssemblyInfo.cs
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.csproj.CoreCompileInputs.cache
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.dll
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.pdb
+C:\Users\Anushka Sharma\Documents\Conestoga College\.Net\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.genruntimeconfig.cache
+C:\Users\Abhishek\Desktop\net group project\GroupProject (1)\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.exe
+C:\Users\Abhishek\Desktop\net group project\GroupProject (1)\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.deps.json
+C:\Users\Abhishek\Desktop\net group project\GroupProject (1)\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.runtimeconfig.json
+C:\Users\Abhishek\Desktop\net group project\GroupProject (1)\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.runtimeconfig.dev.json
+C:\Users\Abhishek\Desktop\net group project\GroupProject (1)\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.dll
+C:\Users\Abhishek\Desktop\net group project\GroupProject (1)\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.pdb
+C:\Users\Abhishek\Desktop\net group project\GroupProject (1)\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.csprojAssemblyReference.cache
+C:\Users\Abhishek\Desktop\net group project\GroupProject (1)\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.AssemblyInfoInputs.cache
+C:\Users\Abhishek\Desktop\net group project\GroupProject (1)\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.AssemblyInfo.cs
+C:\Users\Abhishek\Desktop\net group project\GroupProject (1)\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\Desktop\net group project\GroupProject (1)\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.dll
+C:\Users\Abhishek\Desktop\net group project\GroupProject (1)\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.pdb
+C:\Users\Abhishek\Desktop\net group project\GroupProject (1)\GroupProject\GroupProject\GroupProject\GroupProject\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.genruntimeconfig.cache
+C:\Users\Abhishek\Desktop\.net\net group project\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.exe
+C:\Users\Abhishek\Desktop\.net\net group project\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.deps.json
+C:\Users\Abhishek\Desktop\.net\net group project\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.runtimeconfig.json
+C:\Users\Abhishek\Desktop\.net\net group project\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.runtimeconfig.dev.json
+C:\Users\Abhishek\Desktop\.net\net group project\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.dll
+C:\Users\Abhishek\Desktop\.net\net group project\MovieTheatre\MovieTheatre\bin\Debug\netcoreapp3.1\MovieTheatre.pdb
+C:\Users\Abhishek\Desktop\.net\net group project\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.csprojAssemblyReference.cache
+C:\Users\Abhishek\Desktop\.net\net group project\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.AssemblyInfoInputs.cache
+C:\Users\Abhishek\Desktop\.net\net group project\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.AssemblyInfo.cs
+C:\Users\Abhishek\Desktop\.net\net group project\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\Desktop\.net\net group project\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.dll
+C:\Users\Abhishek\Desktop\.net\net group project\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.pdb
+C:\Users\Abhishek\Desktop\.net\net group project\MovieTheatre\MovieTheatre\obj\Debug\netcoreapp3.1\MovieTheatre.genruntimeconfig.cache
